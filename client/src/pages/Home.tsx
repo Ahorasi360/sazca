@@ -38,7 +38,7 @@ export default function Home() {
           className="absolute inset-0 bg-cover bg-center opacity-40"
           style={{
             backgroundImage:
-              "url('https://d2xsxph8kpxj0f.cloudfront.net/310519663344843940/YSRn8FA93r45Qn3BWJdrbr/sazca-hero-bg-i8CTF8KqGGHgXKYwZyAn3B.webp')",
+              "/* ORIGINAL: url('https://d2xsxph8kpxj0f.cloudfront.net/310519663344843940/YSRn8FA93r45Qn3BWJdrbr/sazca-hero-bg-i8CTF8KqGGHgXKYwZyAn') */ url('https://images.unsplash.com/photo-1579875145424-7b097f0bbd50?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=19203B.webp')",
           }}
         />
         <div className="relative container py-20 md:py-32 flex flex-col justify-center">
