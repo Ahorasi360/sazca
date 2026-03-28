@@ -194,7 +194,7 @@ export default function Home() {
 
             <div className="bg-secondary/20 rounded-lg p-8 border border-border">
               <p className="text-foreground/70 mb-4">
-                <strong className="text-foreground">Email:</strong> info@sazca.com
+                <strong className="text-foreground">Email:</strong> vedatt.com@gmail.com
               </p>
               <p className="text-foreground/70 mb-6">
                 <strong className="text-foreground">Location:</strong> California, USA
@@ -205,7 +205,7 @@ export default function Home() {
                   className="bg-primary hover:bg-primary/90 text-primary-foreground"
                   asChild
                 >
-                  <a href="mailto:info@sazca.com">Send Email</a>
+                  <a href="mailto:vedatt.com@gmail.com">Send Email</a>
                 </Button>
                 <Button
                   variant="outline"
