@@ -44,10 +44,10 @@ export default function Home() {
         <div className="relative container py-20 md:py-32 flex flex-col justify-center">
           <div className="max-w-2xl">
             <h2 className="text-5xl md:text-6xl font-serif font-bold text-foreground leading-tight mb-6">
-              Musical Instruments & Supplies
+              Turkish Hand Made Cymbals
             </h2>
             <p className="text-lg text-foreground/80 leading-relaxed mb-8">
-              SAZCA is a California-based musical instruments and supplies company dedicated to serving musicians and instrument makers with the finest materials and expertise.
+              SAZCA specializes in authentic Turkish hand made cymbals, crafted with centuries-old techniques and dedicated to delivering exceptional sound quality for musicians worldwide.
             </p>
             <div className="flex gap-4">
               <Button
@@ -227,7 +227,7 @@ export default function Home() {
             <div>
               <h5 className="font-serif font-bold text-foreground mb-4">SAZCA</h5>
               <p className="text-sm text-foreground/70">
-                California-based musical instruments and supplies company serving musicians and instrument makers worldwide.
+                California-based Turkish hand made cymbal company serving musicians and percussionists worldwide.
               </p>
             </div>
 
